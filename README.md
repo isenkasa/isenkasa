@@ -4,8 +4,8 @@
 
 Some information about myself:
 
-- 🔭 I’m currently working on [Auto Parts Product System](https://github.com/isenkasa/auto-parts-product-system)
-- 🌱 I’m currently learning the MERN stack
-- 👯 I’m looking to collaborate on Fullstack Web Applications, AI
-- 💬 Ask me about Computer Science, Web Development, C++, Java, Javascript
-- ⚡ Fun fact: I like to travel and try new food
+- I’m currently working on Web projects
+- I’m currently learning Sequelize and AngularJS
+- I’m looking to collaborate on Web Applications and Artificial Intelligence
+- Ask me about Computer Science, Web Development, C++, Java, Javascript (including Node, React, Angular)
+- Fun fact: I like to travel and try new food
