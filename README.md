@@ -4,8 +4,8 @@
 
 Some information about myself:
 
-- I’m currently working on Web projects
-- I’m currently learning Sequelize and AngularJS
-- I’m looking to collaborate on Web Applications and Artificial Intelligence
+- I’m currently working on Web Applications and CLI tools
+- I’m currently learning Angular
+- I’m looking to collaborate on Web Applications and Artificial Intelligence projects
 - Ask me about Computer Science, Web Development, C++, Java, Javascript (including Node, React, Angular)
 - Fun fact: I like to travel and try new food
