@@ -6,6 +6,6 @@ Some information about myself:
 
 - I’m currently working on Web Apps
 - I’m currently learning Angular
-- I’m looking to collaborate on Web Applications and Artificial Intelligence projects
+- I’m looking to collaborate on Web Applications
 - Ask me about Computer Science, Web Development, C++, Java, Javascript (including Node, React, Angular)
 - Fun fact: I like to travel and try new food
